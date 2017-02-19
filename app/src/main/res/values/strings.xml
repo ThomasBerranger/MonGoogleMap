@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyGoogleMap</string>
+    <string name="title_activity_maps">MyGoogleMap</string>
+
+    <string name="départ"> Origin address</string>
+    <string name="arrivée"> Destination address</string>
+    <string name="recherche">Find</string>
+</resources>
